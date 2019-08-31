@@ -1,5 +1,5 @@
 # ImageClassifier
-Classifies uploaded picturs and Webcam Stream
+Classifies uploaded pictures and Webcam Stream
 
 Link to Google Tutorial: https://www.tensorflow.org/js/tutorials/transfer/image_classification
 
